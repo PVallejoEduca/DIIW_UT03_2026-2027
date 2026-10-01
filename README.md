@@ -1,8 +1,8 @@
-# DIIW UT02 — Usabilidad web
+# DIIW UT03 — Usabilidad web
 
-Apuntes de la unidad 2 del módulo **Diseño de Interfaces Web**, curso 2026-2027.
+Apuntes de la unidad 3 del módulo **Diseño de Interfaces Web**, curso 2026-2027.
 
-Este repositorio contiene exclusivamente contenidos teóricos. Las actividades y entregas se mantienen en repositorios independientes dentro de `Actividades`.
+El repositorio contiene los materiales teóricos de la unidad.
 
 ## Contenidos
 
@@ -16,4 +16,4 @@ Este repositorio contiene exclusivamente contenidos teóricos. Las actividades y
 
 - [ISO 9241-11:2018](https://www.iso.org/standard/63500.html)
 - [10 usability heuristics — Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/)
-- Materiales de la UT02 publicados en Google Classroom.
+- Materiales de la UT03 publicados en Google Classroom.
