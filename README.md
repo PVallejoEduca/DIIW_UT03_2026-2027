@@ -16,4 +16,3 @@ El repositorio contiene los materiales teóricos de la unidad.
 
 - [ISO 9241-11:2018](https://www.iso.org/standard/63500.html)
 - [10 usability heuristics — Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/)
-- Materiales de la UT03 publicados en Google Classroom.
